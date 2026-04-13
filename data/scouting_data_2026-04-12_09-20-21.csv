@@ -1,0 +1,214 @@
+Match Number,Team Number,Scout Name,Game Year,Date,Calculated Points,Fuel Scored,Fuel Passed,Climbed,Fuel Scored,Fuel Passed,Climb Status,Notes
+1,6814,Kieran E,2026,2026-04-11 22:27:23,0,0,0,No,0,10,None,"Mid defense, good trench blocks, but weak in zone defense"
+1,670,Param,2026,2026-04-10 12:33:51,212,44,0,No,168,85,None,
+1,8033,Kieran E,2026,2026-04-10 12:33:10,114,22,0,No,92,27,None,Mid bps
+1,4135,Oliver To,2026,2026-04-10 12:33:15,21,9,0,No,12,0,None,"Ok defense, slow at shooting"
+2,3501,Oliver To,2026,2026-04-10 12:44:00,162,8,0,No,154,0,None,Pass from opponent side
+2,846,Kieran E,2026,2026-04-10 12:44:02,42,11,0,No,31,78,None,MONKE good pass + accurate dye
+2,2813,Param,2026,2026-04-10 12:43:43,20,0,0,No,20,55,None,
+3,10339,Param,2026,2026-04-10 12:49:22,0,0,0,No,0,0,None,
+3,3970,Kieran E,2026,2026-04-10 12:51:23,153,25,0,No,128,55,None,Minor defense by 10339
+3,5104,Oliver To,2026,2026-04-10 12:51:43,97,21,0,No,76,0,None,"Hopper broke, decent scoring"
+3,9470,Blake,2026,2026-04-10 12:51:31,363,72,0,No,291,14,None,
+4,972,Kieran E,2026,2026-04-10 13:01:02,6,6,0,No,0,0,None,
+4,1671,Param,2026,2026-04-10 13:00:54,106,0,0,No,106,62,None,
+4,6305,Oliver To,2026,2026-04-10 13:00:51,0,0,0,No,0,0,None,Broke this match
+5,7667,Param,2026,2026-04-10 13:07:40,0,0,0,No,0,0,None,
+5,5026,Kieran E,2026,2026-04-10 13:10:02,331,54,0,No,277,0,None,Lintake drum bot
+5,115,Oliver To,2026,2026-04-10 13:09:15,127,20,0,No,107,0,None,"Decent scoring, slow alignment"
+5,6418,Blake,2026,2026-04-10 13:09:15,106,0,0,No,106,26,None,
+6,7419,Kieran E,2026,2026-04-10 13:18:29,119,15,1,No,104,68,None,Low throughput 
+6,2073,Oliver To,2026,2026-04-10 13:18:09,233,13,0,No,220,0,None,
+6,841,Blake,2026,2026-04-10 13:17:42,99,12,0,No,87,27,None,
+6,971,Param,2026,2026-04-10 13:17:49,253,0,0,No,253,133,None,Got stuck in auto
+7,5419,Oliver To,2026,2026-04-10 13:25:25,115,20,0,No,95,22,None,"nice stream of balls, very inaccurate from long range"
+7,253,Blake,2026,2026-04-10 13:25:24,65,11,0,No,54,47,None,
+7,1072,Kieran E,2026,2026-04-10 13:25:33,112,12,0,No,100,0,None,Low throughput trench dumper
+7,3257,Param,2026,2026-04-10 13:23:58,18,0,8,No,18,0,None,
+8,840,Oliver To,2026,2026-04-10 13:37:36,70,7,0,No,63,0,None,Not very accurate 
+8,6036,Kieran E,2026,2026-04-10 13:37:43,230,34,0,No,196,36,None,Good trench turret
+8,8793,Blake,2026,2026-04-10 13:37:39,25,10,0,No,15,0,None,
+8,6036,Kieran E,2026,2026-04-10 13:37:35,239,43,0,No,196,36,None,
+9,6962,Oliver To,2026,2026-04-10 13:46:54,127,20,0,No,107,0,None,
+9,3598,Kieran E,2026,2026-04-10 13:46:50,5,1,0,No,4,0,None,"Failed counter defense on 6665 cause 6665 just has too much sauce 
+Auto broke
+Shooter takes setup"
+10,6662,Oliver To,2026,2026-04-10 13:55:39,9,9,0,No,0,0,None,Shoved balls to ally side
+10,8048,Param,2026,2026-04-10 13:54:38,55,18,0,No,37,26,None,
+10,8,Kieran E,2026,2026-04-10 13:55:46,194,17,0,No,177,34,None,Good trench turret
+11,3045,Param,2026,2026-04-10 14:04:32,325,64,0,No,261,114,None,
+11,1671,Oliver To,2026,2026-04-10 14:03:27,50,0,0,No,50,125,None,Passed 150
+11,5104,Kieran E,2026,2026-04-10 14:03:42,56,5,0,No,51,0,None,
+12,5026,Kieran E,2026,2026-04-10 14:16:01,67,0,0,No,67,0,None,"Intake barely worked, auto failed, inactive much of the match"
+12,3256,Oliver To,2026,2026-04-10 14:15:37,12,0,0,No,12,0,None,"Turret is too slow to turn, shoots in opposite direction occasionally "
+13,115,Evan,2026,2026-04-10 14:23:04,32,0,0,No,32,22,None,
+13,7419,Oliver To,2026,2026-04-10 14:23:02,52,0,0,No,52,0,None,Auto unsuccessful
+14,5507,Param,2026,2026-04-10 14:31:30,132,21,0,No,111,0,None,
+14,2073,Evan,2026,2026-04-10 14:31:04,118,8,0,No,110,18,None,
+14,2073,Evan,2026,2026-04-10 14:31:25,122,8,0,No,114,18,None,
+14,3257,Oliver To,2026,2026-04-10 14:31:42,0,0,0,No,0,0,None,Broke
+15,114,Oliver To,2026,2026-04-10 14:41:24,11,0,0,No,11,0,None,Bad
+15,9400,Param,2026,2026-04-10 14:41:26,96,16,0,No,80,0,None,
+15,581,Evan,2026,2026-04-10 14:41:25,267,52,0,No,215,15,None,
+15,114,Oliver To,2026,2026-04-10 14:47:18,11,0,0,No,11,0,None,Bad
+16,5419,Oliver To,2026,2026-04-10 14:50:49,46,30,0,No,16,0,None,A lot of penalties when playing defense
+16,846,Evan,2026,2026-04-10 14:50:49,194,32,0,No,162,26,None,
+17,6238,Oliver To,2026,2026-04-10 15:05:16,164,0,0,No,164,0,None,"No auto, consistent shooter"
+17,649,Evan,2026,2026-04-10 15:05:17,50,20,0,No,30,7,None,
+18,6665,Oliver To,2026,2026-04-10 15:13:41,0,0,0,No,0,0,None,Passing and defense
+19,4698,Evan,2026,2026-04-10 15:22:25,162,26,0,No,136,0,None,
+19,701,Oliver To,2026,2026-04-10 15:22:22,6,6,0,No,0,0,None,
+20,4990,Oliver To,2026,2026-04-10 15:32:50,0,0,0,No,0,0,None,Broke
+21,115,Oliver To,2026,2026-04-10 15:41:56,98,0,0,No,98,0,None,Got defended a lot
+22,6418,Oliver To,2026,2026-04-10 15:50:42,105,33,0,No,72,0,None,
+23,9470,Kieran E,2026,2026-04-10 16:03:26,406,61,0,No,345,97,None,Starwheel go brr
+23,253,Oliver To,2026,2026-04-10 16:03:22,41,4,0,No,37,0,None,Attempted counter defense
+24,10339,Kieran E,2026,2026-04-10 16:10:33,0,0,0,No,0,37,None,"Good defense, but short profile made it susceptible to small penalties (none taken Though)"
+24,841,Oliver To,2026,2026-04-10 16:10:38,227,10,0,No,217,0,None,Very good turret bot
+25,6238,ocean,2026,2026-04-10 16:17:24,36,36,0,No,0,0,None,
+25,6962,Oliver To,2026,2026-04-10 16:19:44,133,22,0,No,111,0,None,
+25,6665,Kieran E,2026,2026-04-10 16:20:01,0,0,0,No,0,16,None,"Defended citrus p well, hit against trench"
+25,6238,ocean,2026,2026-04-10 16:19:51,203,36,0,No,167,27,None,
+26,972,Kieran E,2026,2026-04-10 16:29:00,172,5,0,No,167,72,None,"Decent dye rotor, bad auto"
+26,3501,Blake,2026,2026-04-10 16:29:01,102,0,0,No,102,17,None,
+26,8048,Oliver To,2026,2026-04-10 16:29:01,110,22,0,No,88,0,None,"Slow but incredibly accurate and consistent, missed maybe 1 ball the whole match"
+27,6305,Blake,2026,2026-04-10 16:36:29,3,3,0,No,0,0,None,
+27,3598,Param,2026,2026-04-10 16:36:30,69,25,0,No,44,37,None,
+27,4135,Kieran E,2026,2026-04-10 16:36:26,40,0,0,No,40,62,None,Low bps trench turret
+27,6036,Evan,2026,2026-04-10 16:36:22,195,33,0,No,162,64,None,
+27,6036,Oliver To,2026,2026-04-10 16:36:58,229,43,0,No,186,56,None,Good turret shooting
+28,4698,Oliver To,2026,2026-04-10 16:46:28,336,78,0,No,258,0,None,"Great shooter , super strong"
+28,5026,Param,2026,2026-04-10 16:46:14,151,35,0,No,116,106,None,
+29,670,Kieran E,2026,2026-03-07 17:29:36,12,0,0,No,12,0,None,Intake may be broken 
+29,6814,Param,2026,2026-04-10 16:55:00,60,14,0,No,46,60,None,
+30,701,Param,2026,2026-04-10 17:02:05,0,0,0,No,0,0,None,
+30,7419,Kieran E,2026,2026-03-07 17:39:14,82,9,0,No,73,0,None,Goog
+30,840,Oliver To,2026,2026-04-10 17:03:30,38,0,0,No,38,35,None,Shooter doesn’t shoot sometimes
+31,9584,Kieran E,2026,2026-03-07 17:50:36,36,1,0,No,25,16,L1,
+31,7137,Oliver To,2026,2026-04-10 17:12:39,24,8,0,No,16,0,None,
+31,7137,Oliver To,2026,2026-04-10 17:12:25,24,8,0,No,16,0,None,
+31,8033,Evan,2026,2026-04-10 17:11:55,68,18,0,No,50,0,None,
+31,8,Param,2026,2026-04-10 17:12:31,184,40,0,No,144,82,None,magic 8 ball 🤓
+32,6238,Oliver To,2026,2026-04-10 17:20:38,36,30,0,No,6,0,None,"Intake broke, good defense"
+32,971,Kieran E,2026,2026-03-07 18:05:33,93,20,0,No,73,0,None,"Responded well to defense, but still affected "
+33,971,Oliver To,2026,2026-04-10 17:28:38,151,0,0,No,151,40,None,Double turret kinda inaccurate sometimes
+33,8793,Kieran E,2026,2026-03-07 18:16:29,50,0,0,No,50,16,None,Goog pass
+33,3970,Param,2026,2026-04-10 17:28:49,102,38,0,No,64,31,None,
+34,3501,Param,2026,2026-04-10 17:36:53,252,41,0,No,211,84,None,
+34,1857,Kieran E,2026,2026-03-07 18:25:54,34,8,0,No,26,0,None,Played mid defense 
+34,192,Evan,2026,2026-04-10 17:36:41,91,9,0,No,82,0,None,
+35,7419,Param,2026,2026-04-10 17:47:18,119,38,0,No,81,0,None,
+35,2135,Oliver To,2026,2026-04-10 17:47:51,106,15,0,No,91,0,None,
+36,5507,Oliver To,2026,2026-04-10 17:56:20,8,8,0,No,0,53,None,
+39,2073,Param,2026,2026-04-11 08:55:52,101,14,0,No,87,44,None,
+39,6305,Michael Grifftih,2026,2026-04-11 08:55:44,45,0,0,No,45,0,None,
+39,5700,Oliver To,2026,2026-04-11 08:55:41,53,7,0,No,46,42,None,"Slow shooter, passer"
+40,766,Param,2026,2026-04-11 09:03:53,0,0,0,No,0,0,None,
+40,5817,Oliver To,2026,2026-04-11 09:04:48,6,6,0,No,0,0,None,Ok defense
+40,5104,Michael Grifftih,2026,2026-04-11 09:04:52,157,8,17,No,149,10,None,
+42,192,Oliver To,2026,2026-04-11 09:21:26,18,7,0,No,11,50,None,Good passer
+42,670,Michael Grifftih,2026,2026-04-11 09:21:39,246,13,0,No,233,30,None,
+43,5507,Param,2026,2026-04-11 09:30:57,172,31,12,No,141,54,None,
+43,6238,Oliver To,2026,2026-04-11 09:31:07,161,0,0,No,161,0,None,"Got beached twice once in auto and once in teleop 
+"
+43,2135,Michael Grifftih,2026,2026-04-11 09:30:46,245,3,0,No,242,0,None,
+44,5026,Param,2026,2026-04-11 09:39:34,164,40,0,No,124,64,None,
+44,10339,Michael Grifftih,2026,2026-04-11 09:38:30,0,0,0,No,0,0,None,
+44,6814,Oliver To,2026,2026-04-11 09:38:38,8,8,0,No,0,0,None,Alright defense
+45,8048,Oliver To,2026,2026-04-11 09:47:34,75,24,0,No,51,0,None,Counter defended c otters
+45,1323,Michael Grifftih,2026,2026-04-11 09:47:48,361,47,0,No,314,103,None,
+46,7667,Oliver To,2026,2026-04-11 09:56:07,26,0,0,No,26,0,None,"Slow, stuttered around but passed by shoving "
+47,5104,Oliver To,2026,2026-04-11 10:03:11,87,9,0,No,78,0,None,Decent scorer
+47,115,Michael Grifftih,2026,2026-04-11 10:03:16,18,0,0,No,18,0,None,
+48,766,Oliver To,2026,2026-04-11 10:12:00,48,0,0,No,48,0,None,
+48,3501,Param,2026,2026-04-11 10:11:59,114,0,0,No,114,28,None,
+49,1868,Michael Grifftih,2026,2026-04-11 10:21:31,321,2,0,No,319,0,None,
+49,253,Oliver To,2026,2026-04-11 10:22:28,0,0,0,No,0,0,None,Good defense from boba bots
+49,3256,Param,2026,2026-04-11 10:21:06,48,0,0,No,48,26,None,
+49,1868,Michael Grifftih,2026,2026-04-11 10:20:45,26,2,0,No,24,0,None,
+49,8,Oliver To,2026,2026-04-11 10:21:03,16,16,0,No,0,9,None,Good defense and defended us
+50,2204,Oliver To,2026,2026-04-11 10:28:51,0,0,0,No,0,38,None,
+51,7419,Michael Grifftih,2026,2026-04-11 10:39:23,292,36,0,No,256,0,None,
+51,1072,Oliver To,2026,2026-04-11 10:39:20,0,0,0,No,0,2,None,Stole opponent balls
+52,5507,Michael Grifftih,2026,2026-04-11 10:48:03,266,15,0,No,251,0,None,
+52,5026,Oliver To,2026,2026-04-11 10:47:54,305,85,0,No,220,0,None,Incredibly accurate drum
+53,8048,Oliver To,2026,2026-04-11 10:56:10,171,16,0,No,155,31,None,Very consistent and accurate shots at moderate speed
+54,1671,Oliver To,2026,2026-04-11 11:03:39,45,0,0,No,45,129,None,Very very good passer
+55,840,Param,2026,2026-04-11 11:14:38,48,12,0,No,36,180,None,
+55,972,Oliver To,2026,2026-04-11 11:14:25,163,16,0,No,147,129,None,Lots of good passing and shooting
+55,2073,Michael Grifftih,2026,2026-04-11 11:14:29,237,0,0,No,237,49,None,
+56,114,Michael Grifftih,2026,2026-04-11 11:21:55,153,0,0,No,153,103,None,
+56,971,Oliver To,2026,2026-04-11 11:21:48,308,17,0,No,291,24,None,
+57,701,Michael Grifftih,2026,2026-04-11 11:31:00,0,0,0,No,0,0,None,
+57,1868,Oliver To,2026,2026-04-11 11:30:56,307,111,0,No,196,59,None,
+58,115,Oliver To,2026,2026-04-11 11:39:34,73,5,0,No,68,0,None,
+59,6305,Oliver To,2026,2026-04-11 11:50:26,0,0,0,No,0,0,None,"Great defense, stops non trench robots "
+59,6418,Oliver To,2026,2026-04-11 11:47:16,127,32,0,No,95,0,None,
+61,192,Michael Grifftih,2026,2026-04-11 12:04:52,0,0,0,No,0,0,None,
+61,192,Oliver To,2026,2026-04-11 12:02:51,0,0,0,No,0,0,None,Broke
+64,8,Oliver To,2026,2026-04-11 13:13:35,281,32,0,No,249,84,None,
+64,1671,Michael Grifftih,2026,2026-04-11 13:13:42,209,25,0,No,184,24,None,
+64,8,Oliver To,2026,2026-04-11 13:13:29,281,32,0,No,249,84,None,
+65,6962,Michael Grifftih,2026,2026-04-11 13:22:28,163,24,0,No,139,17,None,
+65,3501,Oliver To,2026,2026-04-11 13:22:16,203,39,0,No,164,62,None,
+66,1967,Michael Grifftih,2026,2026-04-11 13:31:05,110,8,0,No,102,0,None,
+66,9400,Oliver To,2026,2026-04-11 13:30:53,137,0,0,No,137,0,None,
+68,6418,Michael Grifftih,2026,2026-04-11 13:48:43,246,61,0,No,185,3,None,
+68,5817,Oliver To,2026,2026-04-11 13:48:27,51,10,0,No,41,18,None,Shooter not accurate
+69,1072,Oliver To,2026,2026-04-11 13:56:31,43,16,0,No,27,0,None,Shooter stopped working in endgame
+69,6305,Michael Grifftih,2026,2026-04-11 13:56:48,95,0,0,No,95,6,None,
+70,670,Param,2026,2026-04-11 14:06:04,113,10,0,No,103,57,None,
+70,5026,Oliver To,2026,2026-04-11 14:05:53,47,0,0,No,47,37,None,Great at shooting when working keeps breaking though so unreliable and inconsistent
+70,5700,Michael Grifftih,2026,2026-04-11 14:06:09,42,0,0,No,42,35,None,
+71,649,Param,2026,2026-04-11 14:16:09,143,30,0,No,113,0,None,
+71,8793,Michael Grifftih,2026,2026-04-11 14:13:35,73,48,0,No,25,47,None,
+72,972,Michael Grifftih,2026,2026-04-11 14:21:37,123,12,0,No,111,0,None,
+72,5507,Param,2026,2026-04-11 14:21:33,221,35,0,No,186,0,None,
+72,5507,Oliver To,2026,2026-04-11 14:21:31,224,23,0,No,201,0,None,High hopper cap and good scoring
+73,4135,Oliver To,2026,2026-04-11 14:29:37,57,4,0,No,53,84,None,Passing is inaccurate (goes out of bounds)
+73,7667,Michael Grifftih,2026,2026-04-11 14:29:41,90,13,0,No,77,0,None,
+73,7137,Param,2026,2026-04-11 14:29:43,85,17,0,No,68,78,None,
+74,8048,Michael Grifftih,2026,2026-04-11 14:37:42,152,19,0,No,133,0,None,
+74,9400,Param,2026,2026-04-11 14:37:45,82,26,0,No,56,57,None,
+74,115,Oliver To,2026,2026-04-11 14:37:36,83,0,8,No,83,37,None,Fast unload 
+75,846,Michael Grifftih,2026,2026-04-11 14:48:03,177,40,0,No,137,0,None,
+75,846,Oliver To,2026,2026-04-11 14:48:01,223,44,0,No,179,20,None,Pretty good turret bot
+77,670,Oliver To,2026,2026-04-11 15:05:31,167,24,0,No,143,0,None,Got defended by 6665 otherwise good shooter
+77,6665,Oliver To,2026,2026-04-11 15:05:44,0,0,0,No,0,0,None,Best defense ever
+77,4990,Kieran E,2026,2026-04-11 22:40:36,0,0,0,No,0,32,None,
+77,253,Michael Grifftih,2026,2026-04-11 15:05:21,23,11,0,No,12,0,None,
+78,6036,Michael Grifftih,2026,2026-04-11 15:13:32,117,22,0,No,95,0,None,
+78,6238,Oliver To,2026,2026-04-11 15:13:24,163,0,0,No,163,36,None,Gets stuck on bumper occaioally
+79,114,Oliver To,2026,2026-04-11 15:24:10,22,0,0,No,22,132,None,Big passer bc citrus was on their team
+80,2204,Param,2026,2026-04-11 15:34:13,13,0,0,No,13,0,None,
+80,6305,Oliver To,2026,2026-04-11 15:34:15,12,7,0,No,5,0,None,Broke immediately after auto
+81,5419,Oliver To,2026,2026-04-11 15:45:34,26,3,0,No,23,0,None,"Auto crashed, sucks at shooting
+"
+82,4135,Oliver To,2026,2026-04-11 15:54:17,0,0,0,No,0,12,None,Hopper broke stuttering around
+83,972,Michael Grifftih,2026,2026-04-11 16:02:17,30,0,10,No,30,120,None,
+83,604,Oliver To,2026,2026-04-11 16:02:11,384,55,0,No,329,80,None,Back in business
+84,6665,Michael Grifftih,2026,2026-04-11 16:09:59,0,0,0,No,0,20,None,
+84,3598,Oliver To,2026,2026-04-11 16:09:45,10,10,0,No,0,4,None,Broke
+87,2204,Michael Grifftih,2026,2026-04-11 16:33:17,15,0,0,No,15,45,None,
+87,649,Oliver To,2026,2026-04-11 16:33:19,70,0,0,No,70,0,None,Motor down so spinning on one axis
+88,6238,Oliver To,2026,2026-04-11 16:41:49,0,0,0,No,0,0,None,Broke down
+88,3970,Michael Grifftih,2026,2026-04-11 16:41:32,213,0,0,No,213,0,None,
+88,3970,Oliver To,2026,2026-04-11 16:41:26,96,8,0,No,88,21,None,
+89,6962,Michael Grifftih,2026,2026-04-11 16:49:38,86,8,0,No,78,115,None,
+89,971,Oliver To,2026,2026-04-11 16:49:31,210,12,0,No,198,73,None,Nice dual turret
+90,5026,Oliver To,2026,2026-04-11 16:57:37,403,85,0,No,318,5,None,"Very accurate drum, great shooter"
+90,6036,Damian,2026,2026-04-11 16:57:27,112,0,0,No,112,24,None,
+90,7419,Michael Grifftih,2026,2026-04-11 16:57:39,15,10,0,No,5,20,None,
+91,6418,Michael Grifftih,2026,2026-04-11 17:05:30,244,19,0,No,225,0,None,
+91,972,Damian,2026,2026-04-11 17:02:00,0,0,0,No,0,0,None,
+91,972,Damian,2026,2026-04-11 17:05:19,121,0,0,No,121,0,None,
+91,9470,Oliver To,2026,2026-04-11 17:05:28,335,57,0,No,278,57,None,
+92,1671,Oliver To,2026,2026-04-11 17:14:20,125,18,0,No,107,37,None,"Fast intake, slowdrum"
+92,8793,Michael Grifftih,2026,2026-04-11 17:14:21,146,0,0,No,146,24,None,
+93,3256,Michael Grifftih,2026,2026-04-11 17:21:45,223,74,0,No,149,0,None,
+93,3257,Oliver To,2026,2026-04-11 17:21:42,176,43,0,No,133,36,None,
+94,7137,Oliver To,2026,2026-04-11 17:29:04,32,5,0,No,27,36,None,Decent defense
+94,1967,Damian,2026,2026-04-11 17:28:35,71,3,0,No,68,13,None,
+94,5940,Michael Grifftih,2026,2026-04-11 17:29:05,174,55,0,No,119,60,None,
+95,192,Damian,2026,2026-04-11 17:37:40,0,0,0,No,0,0,None,
+96,253,Damian,2026,2026-04-11 17:46:13,68,5,0,No,63,18,None,

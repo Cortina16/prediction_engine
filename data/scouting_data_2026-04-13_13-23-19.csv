@@ -1,0 +1,259 @@
+Match Number,Team Number,Scout Name,Game Year,Date,Calculated Points,Fuel Scored,Fuel Passed,Climbed,Fuel Scored,Fuel Passed,Climb Status,Notes
+1,9584,Holden,2026,2026-03-07 11:06:38,103,11,0,No,92,0,None,"Decent, got stuck on ball at beginning"
+1,971,Yahya,2026,2026-03-07 11:06:15,5,5,0,No,0,20,None,"Played defense the whole time and passed to 9508 which did all the scoring 
+"
+1,2473,Oliver To,2026,2026-03-07 11:06:01,7,0,0,No,7,26,None,Moves very slow
+1,1458,Param,2026,2026-03-07 11:06:14,2,0,0,No,2,40,None,
+2,6305,Param,2026,2026-03-07 11:17:45,10,0,0,No,10,38,None,
+2,7607,Holden,2026,2026-03-07 11:16:32,0,0,0,No,0,0,None,"Literally didn’t have a robot lol"
+2,10252,Nikko Petuya,2026,2026-03-07 11:18:22,0,0,0,No,0,0,None,
+2,1678,Oliver To,2026,2026-03-07 11:17:43,431,76,0,No,355,94,None,
+2,5924,Yahya,2026,2026-03-07 11:18:47,0,0,0,No,0,0,None,"Didn’t move during auto and during telep they also did nothing . Tried to play defense halfway through the match. "
+3,3598,Yahya,2026,2026-03-07 11:29:22,23,0,0,No,23,0,None,"Didn’t move during auto "
+3,1857,Oliver To,2026,2026-03-07 11:29:24,54,2,0,No,52,46,None,
+3,7419,Holden,2026,2026-03-07 11:29:33,0,0,0,No,0,0,None,"Stuttered around with like 8 balls and never did anything else"
+3,4990,Byron Orozco,2026,2026-03-07 11:28:57,0,0,0,No,0,0,None,
+3,9470,Param,2026,2026-03-07 11:29:38,334,75,0,No,259,51,None,
+4,1452,Param,2026,2026-03-07 11:39:34,7,0,0,No,7,0,None,
+4,604,Holden,2026,2026-03-07 11:40:01,127,29,0,No,98,0,None,"Stalled out for half the match but very good when working"
+4,5760,Oliver To,2026,2026-03-07 11:39:28,0,0,0,No,0,4,None,
+4,670,Yahya,2026,2026-03-07 11:40:06,0,0,0,No,0,0,None,"Didn’t move during auto and disconnected during the match. Tried to play play defense halfway through. "
+4,8793,Nikko Petuya,2026,2026-03-07 11:39:31,39,1,0,No,38,41,None,
+4,3045,Ocean,2026,2026-03-07 11:39:29,39,0,0,No,39,0,None,
+5,3257,Nikko Petuya,2026,2026-03-07 11:57:48,0,0,0,No,0,46,None,
+5,3257,Nikko Petuya,2026,2026-03-07 11:58:03,0,0,0,No,0,46,None,
+5,4171,Holden,2026,2026-03-07 11:58:05,0,0,0,No,0,0,None,Moved around like they wanted to shoot but never did
+5,852,Param,2026,2026-03-07 11:57:46,17,0,0,No,17,19,None,
+5,7607,Yahya,2026,2026-03-07 11:58:03,3,0,0,No,3,0,None,"Didn’t move during auto mostly inactive during teleop"
+5,3257,Nikko Petuya,2026,2026-03-07 11:57:38,0,0,0,No,0,46,None,
+5,1458,Oliver To,2026,2026-03-07 11:57:44,0,0,0,No,0,26,None,
+6,4990,Param,2026,2026-03-07 12:09:08,0,0,0,No,0,42,None,
+6,9584,Yahya,2026,2026-03-07 12:09:34,54,0,0,No,54,0,None,"Good shooter for this team. 
+"
+6,971,Oliver To,2026,2026-03-07 12:09:14,189,26,0,No,163,42,None,
+6,9470,Nikko Petuya,2026,2026-03-07 12:09:09,234,28,0,No,206,70,None,
+6,971,Yahya,2026,2026-03-07 12:14:33,175,12,0,No,163,0,None,"Great shooter 
+"
+6,5924,Holden,2026,2026-03-07 12:09:29,0,0,0,No,0,0,None,Shot the audience a bunch didn’t do much else
+7,6305,Param,2026,2026-03-07 12:20:34,44,3,0,No,41,0,None,
+7,5760,Yahya,2026,2026-03-07 12:20:21,4,0,0,No,4,0,None,
+7,6305,Param,2026,2026-03-07 12:11:10,0,0,0,No,0,0,None,
+7,3598,Holden,2026,2026-03-07 12:20:50,23,0,0,No,23,0,None,Shot one at a time but at least they were able to score
+7,2473,Nikko Petuya,2026,2026-03-07 12:20:46,6,0,0,No,6,14,None,
+7,6981,Oliver To,2026,2026-03-07 12:19:27,0,0,0,No,0,0,None,
+8,1678,Yahya,2026,2026-03-07 12:34:23,239,0,0,No,239,0,None,
+8,1678,Yahya,2026,2026-03-07 14:54:49,338,90,36,No,248,0,None,
+8,7413,Byron Orozco,2026,2026-03-07 12:33:09,0,0,0,No,0,0,None,
+8,852,Nikko Petuya,2026,2026-03-07 12:33:08,0,0,0,No,0,0,None,
+8,604,Oliver To,2026,2026-03-07 12:33:11,203,14,12,No,189,30,None,Broke down for a minute
+8,1678,Holden,2026,2026-03-07 12:33:18,339,75,34,No,264,35,None,OP
+8,1857,Param,2026,2026-03-07 12:31:39,11,4,0,No,7,7,None,
+9,7419,Yahya,2026,2026-03-07 12:50:27,37,3,0,No,34,0,None,
+9,5924,Nikko,2026,2026-03-07 12:50:24,14,0,0,No,14,9,None,
+9,4171,Param,2026,2026-03-07 12:50:42,4,3,2,No,1,15,None,
+9,3045,Holden,2026,2026-03-07 12:50:27,44,3,0,No,41,0,None,T_T
+9,9584,Byron Orozco,2026,2026-03-07 12:50:24,56,0,0,No,56,0,None,
+9,670,Oliver To,2026,2026-03-07 12:50:24,0,0,14,No,0,47,None,"Intake couldn’t deploy, stuck to passing the whole game. Stuck on bumper for a bit"
+10,4990,Yahya,2026,2026-03-07 12:59:43,6,0,0,No,6,0,None,
+10,6305,Param,2026,2026-03-07 12:59:58,48,0,0,No,48,13,None,
+10,7607,Oliver To,2026,2026-03-07 12:58:50,0,0,0,No,0,0,None,No robot
+10,8793,Holden,2026,2026-03-07 12:59:42,61,0,0,No,61,0,None,Inconsistent but scores pretty well
+10,5760,Nikko,2026,2026-03-07 12:59:41,0,0,0,No,0,22,None,
+11,1458,Holden,2026,2026-03-07 14:18:39,0,0,0,No,0,15,None,
+11,852,Yahya,2026,2026-03-07 14:18:24,7,3,0,No,4,0,None,
+11,852,Nikko,2026,2026-03-07 14:18:38,14,10,0,No,4,0,None,
+11,10252,Oliver To,2026,2026-03-07 14:18:55,0,0,0,No,0,95,None,"Very slow, resorted to passing bc intake broke"
+11,7413,Param,2026,2026-03-07 14:18:39,3,0,0,No,3,14,None,
+12,4171,Yahya,2026,2026-03-07 14:27:58,8,8,0,No,0,0,None,
+12,4171,Oliver To,2026,2026-03-07 14:27:46,0,0,0,No,0,19,None,
+12,7419,Nikko,2026,2026-03-07 14:27:49,144,12,2,No,132,12,None,
+12,1678,Param,2026,2026-03-07 14:27:54,344,81,0,No,263,96,None,
+12,1857,Holden,2026,2026-03-07 14:27:47,35,7,0,No,28,0,None,Very mid
+13,2473,Oliver To,2026,2026-03-07 14:37:38,0,0,0,No,0,25,None,Slow hard to move
+13,2473,Yahya,2026,2026-03-07 14:37:25,11,0,0,No,11,0,None,
+13,9470,Holden,2026,2026-03-07 14:37:22,270,43,0,No,227,60,None,Very strong
+13,3257,Nikko,2026,2026-03-07 14:37:31,50,15,0,No,35,6,None,
+14,6981,Oliver To,2026,2026-03-07 14:45:56,0,0,0,No,0,0,None,No robot
+14,7607,Nikko,2026,2026-03-07 14:48:04,0,0,0,No,0,0,None,
+14,10059,Byron Orozco,2026,2026-03-07 14:58:03,0,0,0,No,0,0,None,
+14,9584,Yahya,2026,2026-03-07 14:51:39,0,0,0,No,0,0,None,
+14,9584,Yahya,2026,2026-03-07 14:47:05,12,0,0,No,2,0,L1,
+14,604,Holden,2026,2026-03-07 14:48:33,123,13,0,No,110,31,None,Decent
+15,1857,Nikko,2026,2026-03-07 14:59:35,41,10,0,No,31,109,None,
+15,971,Yahya,2026,2026-03-07 14:59:38,107,43,0,No,64,0,None,
+15,10252,Holden,2026,2026-03-07 15:00:01,0,0,0,No,0,0,None,Pretty terrible
+15,5760,Param,2026,2026-03-07 15:01:34,28,4,0,No,24,15,None,
+15,8793,Oliver To,2026,2026-03-07 14:59:37,69,0,0,No,69,18,None,
+16,10059,Holden,2026,2026-03-07 15:10:18,19,10,0,No,9,0,None,Small and quick but very bad
+16,10059,Byron Orozco,2026,2026-03-07 15:09:29,64,13,0,No,51,0,None,
+16,3045,Oliver To,2026,2026-03-07 15:09:16,127,0,0,No,127,38,None,
+16,1678,Nikko,2026,2026-03-07 15:09:15,401,78,0,No,323,79,None,
+16,3045,Byron Orozco,2026,2026-03-28 14:52:22,209,47,0,No,162,9,None,
+17,852,Holden,2026,2026-03-07 15:19:41,9,0,0,No,9,0,None,Got defended super hard
+17,670,Oliver To,2026,2026-03-07 15:19:09,0,0,0,No,0,15,None,No scoring
+17,852,Holden,2026,2026-03-07 15:18:24,6,0,0,No,6,0,None,
+17,1452,Param,2026,2026-03-07 15:19:47,2,2,0,No,0,0,None,
+17,4990,Nikko,2026,2026-03-07 15:18:56,0,0,0,No,0,27,None,
+17,852,Yahya,2026,2026-03-07 15:19:01,12,0,0,No,12,0,None,
+18,7419,Nikko,2026,2026-03-07 15:29:44,117,19,1,No,98,35,None,
+18,3257,Holden,2026,2026-03-07 15:30:23,18,3,0,No,15,0,None,Missed like all of their shots
+18,5760,Param,2026,2026-03-07 15:29:43,10,6,0,No,4,4,None,
+18,9584,Oliver To,2026,2026-03-07 15:30:04,47,0,0,No,37,1,L1,
+19,6981,Holden,2026,2026-03-07 15:39:52,0,0,0,No,0,0,None,Team did not show up
+19,7413,Yahya,2026,2026-03-07 15:39:03,11,0,0,No,11,0,None,
+19,2473,Oliver To,2026,2026-03-07 15:39:13,25,0,0,No,15,0,L1,
+19,6981,Byron Orozco,2026,2026-03-07 15:39:16,0,0,0,No,0,0,None,Didn’t show up 
+19,3045,Nikko,2026,2026-03-07 15:39:05,113,0,0,No,113,52,None,
+19,4171,Param,2026,2026-03-07 15:39:47,56,9,0,No,47,0,None,
+20,604,Param,2026,2026-03-07 15:49:17,256,25,21,No,231,200,None,
+20,670,Holden,2026,2026-03-07 15:48:41,65,0,0,No,65,0,None,Very solod
+20,670,Yahya,2026,2026-03-07 15:47:44,0,0,0,No,0,0,None,
+20,5924,Oliver To,2026,2026-03-07 15:47:53,0,0,0,No,0,0,None,Blocked trench from other team
+20,9470,Nikko,2026,2026-03-07 15:47:54,306,56,9,No,250,127,None,
+21,8793,Holden,2026,2026-03-07 16:01:52,30,3,0,No,27,0,None,Mid
+21,852,Yahya,2026,2026-03-07 16:00:41,0,0,0,No,0,0,None,
+21,3598,Nikko,2026,2026-03-07 16:00:53,41,3,0,No,38,11,None,
+21,7419,Oliver To,2026,2026-03-07 16:01:07,93,18,0,No,75,96,None,
+22,1452,Yahya,2026,2026-03-07 16:16:14,21,5,0,No,16,0,None,
+22,10059,Oliver To,2026,2026-03-07 16:13:49,0,0,0,No,0,108,None,"Just shoved balls to side, but good passing"
+22,10059,Byron Orozco,2026,2026-03-07 16:12:17,0,0,0,No,0,0,None,
+22,4990,Nikko,2026,2026-03-07 16:13:24,0,0,0,No,0,1,None,
+22,9584,Param,2026,2026-03-07 16:13:33,48,10,0,No,38,20,None,
+22,1452,Holden,2026,2026-03-07 16:12:45,0,0,0,No,0,0,None,Very choppy movement couldn’t do anything
+23,971,Oliver To,2026,2026-03-07 16:25:16,110,8,16,No,102,19,None,Good shooter 
+23,7607,Nikko,2026,2026-03-07 16:25:14,0,0,0,No,0,0,None,
+23,7413,Param,2026,2026-03-07 16:25:28,7,0,0,No,7,0,None,
+23,1458,Yahya,2026,2026-03-07 16:26:34,0,0,0,No,0,0,None,
+23,9470,Holden,2026,2026-03-07 16:26:36,253,55,0,No,198,164,None,Very good
+24,670,Yahya,2026,2026-03-07 16:36:14,0,0,0,No,0,0,None,
+24,852,Oliver To,2026,2026-03-07 16:35:02,26,2,0,No,24,59,None,"Super slow, big hopper"
+24,6981,Param,2026,2026-03-07 16:34:56,8,3,0,No,5,4,None,
+24,670,Nikko,2026,2026-03-07 16:34:56,13,0,4,No,13,11,None,
+24,3598,Holden,2026,2026-03-07 16:35:56,39,4,0,No,35,0,None,Only shoot one at a time
+25,4171,Yahya,2026,2026-03-07 16:46:03,11,3,0,No,8,0,None,
+25,2473,Oliver To,2026,2026-03-07 16:45:16,3,0,0,No,3,0,None,Not shooting or doing anything
+25,1678,Nikko,2026,2026-03-07 16:45:24,423,53,0,No,370,103,None,
+25,1452,Holden,2026,2026-03-07 16:45:17,0,0,0,No,0,0,None,Wooden box that gets stuck a lot
+25,3257,Byron Orozco,2026,2026-03-07 16:45:29,86,19,0,No,67,0,None,
+26,5924,Param,2026,2026-03-07 16:55:11,8,0,0,No,8,0,None,
+26,8793,Holden,2026,2026-03-07 16:55:02,3,0,0,No,3,0,None,
+26,6305,Byron Orozco,2026,2026-03-07 16:55:21,31,0,0,No,31,0,None,
+26,10059,Oliver To,2026,2026-03-07 16:55:30,0,0,0,No,0,35,None,"Stuttering around, decided to play defense and prevent other team from picking up balls in their zone"
+26,7419,Yahya,2026,2026-03-07 16:55:15,18,2,0,No,16,0,None,
+26,6305,Nikko,2026,2026-03-07 16:55:11,37,0,0,No,37,31,None,
+27,1857,Yahya,2026,2026-03-07 17:05:24,37,5,0,No,32,0,None,
+27,1458,Nikko,2026,2026-03-07 17:05:14,0,0,0,No,0,12,None,
+27,10252,Oliver To,2026,2026-03-07 17:05:32,2,2,0,No,0,11,None,"Incredibly slow, basically did nothing "
+29,6305,Oliver To,2026,2026-03-07 17:29:39,9,0,0,No,9,75,None,
+30,9470,Oliver To,2026,2026-03-07 17:39:05,261,49,34,No,212,109,None,
+31,7413,Oliver To,2026,2026-03-07 17:50:34,6,0,0,No,6,22,None,"Super slow, didn’t do much"
+31,5760,Oliver To,2026,2026-03-07 17:51:36,15,8,10,No,7,18,None,Good defense
+32,4990,Byron Orozco,2026,2026-03-07 18:04:53,0,0,0,No,0,0,None,Just pushed balls with their robot
+32,670,Oliver To,2026,2026-03-07 18:04:58,23,17,17,No,6,80,None,Passed the whole gMe
+32,971,Holden,2026,2026-03-07 18:05:50,106,25,0,No,81,0,None,Mid accuracy decent overall
+32,852,Yahya,2026,2026-03-07 18:05:00,48,2,0,No,46,0,None,
+33,10252,Oliver To,2026,2026-03-07 18:16:06,0,0,0,No,0,87,None,"Very slow and clumsy, shoved balls to pass"
+33,1452,Yahya,2026,2026-03-07 18:15:51,0,0,0,No,0,61,None,
+33,6981,Ocean,2026,2026-03-07 18:15:55,0,0,0,No,0,0,None,
+33,8793,Holden,2026,2026-03-07 18:16:46,121,0,0,No,121,21,None,Solid
+33,9470,Byron Orozco,2026,2026-03-07 18:16:06,338,28,0,No,310,96,None,
+34,604,Yahya,2026,2026-03-07 18:25:24,114,44,0,No,70,0,None,
+34,604,Yahya,2026,2026-03-07 18:25:21,114,44,0,No,70,0,None,
+34,7607,Ocean,2026,2026-03-07 18:25:16,1,1,0,No,0,0,None,
+34,2473,Byron Orozco,2026,2026-03-07 18:25:25,24,3,0,No,11,0,L1,
+34,10059,Holden,2026,2026-03-07 18:27:08,0,0,0,No,0,0,None,Mid defense
+34,3045,Oliver To,2026,2026-03-07 18:25:22,103,0,0,No,103,30,None,
+34,604,Yahya,2026,2026-03-07 18:25:17,104,44,0,No,60,0,None,
+35,1458,Oliver To,2026,2026-03-07 18:34:49,0,0,0,No,0,24,None,Amazing defense against 1678 and another enemy team. Pinned them against walls multiple times to prevent movement and slowed down Citrus’ cycles by lots of seconds
+35,5760,ocean,2026,2026-03-07 18:34:41,0,0,0,No,0,0,None,
+35,5924,Yahya,2026,2026-03-07 18:34:50,6,0,0,No,6,0,None,
+35,3257,Byron Orozco,2026,2026-03-07 18:34:48,11,11,0,No,0,0,None,
+35,4990,Holden,2026,2026-03-07 18:35:46,0,0,0,No,0,0,None,Spun around in circles entire match
+36,4171,Holden,2026,2026-03-07 18:46:18,1,1,0,No,0,0,None,
+36,10252,Byron Orozco,2026,2026-03-07 18:43:03,0,0,0,No,0,0,None,
+36,670,Yahya,2026,2026-03-07 18:44:43,5,0,18,No,5,12,None,
+36,3598,Oliver To,2026,2026-03-07 18:45:11,28,5,0,No,23,3,None,"Very slow shooting, 1 b/s"
+37,971,Byron Orozco,2026,2026-03-08 09:27:45,77,0,0,No,77,0,None,Took hella long to come to the match and also auto broke. Their shooting was mid at first but then they locked in for a min but then they played mid
+37,7419,Nikko,2026,2026-03-08 09:27:30,181,20,5,No,161,28,None,
+37,7607,Damian,2026,2026-03-08 09:27:36,0,0,0,No,0,0,None,
+37,6305,Michael Griffith,2026,2026-03-08 09:27:51,6,0,0,No,6,0,None,
+37,7413,Blake Greysen,2026,2026-03-08 09:27:44,5,0,0,No,5,0,None,
+37,7607,Gear Gremlins,2026,2026-03-08 09:23:52,0,0,0,No,0,0,None,
+37,3045,Oliver To,2026,2026-03-08 09:27:34,49,0,7,No,49,1,None,"Intake broke, got defended"
+38,604,Michael Griffith,2026,2026-03-08 09:37:24,112,16,0,No,96,31,None,
+38,9584,Yahya,2026,2026-03-08 09:37:20,38,9,0,No,19,79,L1,
+38,9470,Oliver To,2026,2026-03-08 09:37:28,203,44,38,No,159,29,None,"Fast driving, gets in lots of cycles when hub active"
+38,3257,Damian,2026,2026-03-08 09:37:25,36,0,1,No,36,4,None,
+38,10059,Blake,2026,2026-03-08 09:37:41,0,0,0,No,0,0,None,They suck 
+38,8793,Nikko,2026,2026-03-08 09:37:18,0,0,0,No,0,7,None,
+39,1678,Ethan Hwa,2026,2026-03-08 09:50:04,337,73,0,No,264,32,None,
+39,1857,Nikko,2026,2026-03-08 09:49:39,74,12,0,No,62,49,None,
+39,852,Oliver To,2026,2026-03-08 09:49:43,0,0,0,No,0,0,None,Super slow and kept bumping into walls
+39,2473,Blake Greysen,2026,2026-03-08 09:49:45,10,0,0,No,0,21,L1,They mainly pushed balls through trench
+39,1458,Michael Griffith,2026,2026-03-08 09:49:43,6,4,0,No,2,16,None,
+39,5924,Damian,2026,2026-03-08 09:49:53,0,0,0,No,0,2,None,
+40,1452,Michael Griffith,2026,2026-03-08 10:01:39,29,1,0,No,28,2,None,
+40,7607,Nikko,2026,2026-03-08 10:00:42,0,0,0,No,0,0,None,
+40,3045,Oliver To,2026,2026-03-08 10:00:43,0,0,0,No,0,0,None,We didn’t move this match
+40,1452,Michael Griffith,2026,2026-03-08 10:00:45,29,1,0,No,28,2,None,
+40,3598,Ethan Hwa,2026,2026-03-08 10:00:50,33,9,0,No,24,14,None,
+40,971,Damian,2026,2026-03-08 10:00:54,113,0,0,No,113,1,None,
+40,4990,Blake G,2026,2026-03-08 10:00:44,0,0,0,No,0,24,None,Slowly passed balls
+41,10252,Blake,2026,2026-03-08 10:10:44,0,0,0,No,0,28,None,They passed then tweaked
+41,3257,Nikko,2026,2026-03-08 10:10:26,93,17,28,No,76,16,None,
+41,604,Oliver To,2026,2026-03-08 10:10:28,193,31,16,No,162,7,None,"Stopped for first half of match, decent speed"
+41,7413,Ethan Hwa,2026,2026-03-08 10:10:32,0,0,0,No,0,44,None,
+41,670,Michael Griffith,2026,2026-03-08 10:10:51,27,0,0,No,27,0,None,
+41,670,Michael Griffith,2026,2026-03-08 10:10:28,27,0,0,No,27,0,None,
+41,6981,Damian,2026,2026-03-08 10:10:31,2,0,0,No,2,0,None,
+42,1857,Ethan Hwa,2026,2026-03-08 10:20:31,57,6,0,No,51,49,None,
+42,5760,Nikko,2026,2026-03-08 10:20:30,0,0,0,No,0,0,None,
+42,9584,Damian,2026,2026-03-08 10:20:33,99,14,0,No,85,16,None,
+42,6305,Oliver To,2026,2026-03-08 10:20:34,56,3,0,No,53,0,None,Played defense but got itself stuck
+42,5924,Michael Griffith,2026,2026-03-08 10:20:31,0,0,0,No,0,44,None,
+42,1458,Blake G,2026,2026-03-08 10:18:40,0,0,0,No,0,0,None,We’re not there 
+43,4171,Damian,2026,2026-03-08 10:31:35,0,0,0,No,0,0,None,
+43,9470,Blake,2026,2026-03-08 10:31:31,200,56,0,No,144,13,None,They were perfect got like 340 solo
+43,8793,Ethan Hwa,2026,2026-03-08 10:32:00,62,15,11,No,47,18,None,Mediocre passing mediocre scoring
+43,852,Oliver To,2026,2026-03-08 10:31:47,0,0,0,No,0,63,None,Kinda slow and hesitant
+43,1678,Nikko,2026,2026-03-08 10:31:37,442,52,0,No,390,111,None,
+44,7419,Blake,2026,2026-03-08 10:42:30,90,14,0,No,76,0,None,They were tweaking but did alright 
+44,4990,Oliver To,2026,2026-03-08 10:42:29,17,0,0,No,17,20,None,"Erratic movement, crashing into walls, passes to human players"
+44,2473,Nikko,2026,2026-03-08 10:42:30,0,0,0,No,0,7,None,
+44,3598,Michael Griffith,2026,2026-03-08 10:42:40,7,5,0,No,2,0,None,
+45,1452,Damian,2026,2026-03-08 10:49:36,0,0,0,No,0,0,None,
+45,971,Blake,2026,2026-03-08 10:52:06,105,5,0,No,100,3,None,They got defended driver is him
+45,6305,Michael Griffith,2026,2026-03-08 10:57:23,5,0,0,No,5,8,None,
+45,6305,Michael Griffith,2026,2026-03-08 10:52:12,5,0,0,No,5,8,None,
+45,1452,Damian,2026,2026-03-08 10:52:21,0,0,0,No,0,0,None,
+45,3257,Nikko,2026,2026-03-08 10:52:09,100,14,0,No,86,0,None,
+45,5924,Oliver To,2026,2026-03-08 10:52:07,0,0,0,No,0,5,None,Prevented other team from getting into their zone for a long time
+46,1458,Damian,2026,2026-03-08 11:02:00,10,0,0,No,0,0,L1,
+46,4171,Blake,2026,2026-03-08 11:02:29,0,0,0,No,0,0,None,They were broken
+46,8793,Oliver To,2026,2026-03-08 11:02:09,102,11,0,No,91,0,None,"No hopper, good at shooting, fast"
+46,3045,Nikko,2026,2026-03-08 11:02:05,19,0,0,No,19,53,None,
+47,852,Damian,2026,2026-03-08 11:14:19,33,0,0,No,33,0,None,
+47,7419,Blake,2026,2026-03-08 11:14:11,49,0,0,No,49,0,None,Horrible bpm bad accuracy
+47,1678,Nikko,2026,2026-03-08 11:14:15,702,80,0,No,622,85,None,
+47,7607,Oliver To,2026,2026-03-08 11:14:50,0,0,0,No,0,29,None,Hesitant bad defense
+47,9470,Michael Griffith,2026,2026-03-08 11:14:21,169,36,0,No,133,32,None,
+48,670,Oliver To,2026,2026-03-08 11:23:56,144,9,31,No,135,0,None,Fast and purposeful 
+48,1857,Damian,2026,2026-03-08 11:23:57,52,5,0,No,47,0,None,
+48,2473,Nikko,2026,2026-03-08 11:23:58,0,0,0,No,0,18,None,
+48,10059,Blake,2026,2026-03-08 11:24:17,0,0,0,No,0,65,None,Amazing job defending and passing 
+49,5760,Blake,2026,2026-03-08 11:36:14,0,0,0,No,0,59,None,Really bad passed balls and got stuck
+49,971,Michael Griffith,2026,2026-03-08 11:36:44,19,0,0,No,19,0,None,
+49,604,Damian,2026,2026-03-08 11:36:16,167,28,0,No,139,12,None,
+49,5924,Nikko,2026,2026-03-08 11:36:14,6,6,0,No,0,0,None,
+50,3045,Damian,2026,2026-03-08 11:49:23,65,0,0,No,65,30,None,
+50,9470,ocean,2026,2026-03-08 11:49:25,357,54,0,No,303,59,None,
+50,6305,Holden,2026,2026-03-08 11:49:23,10,0,0,No,10,0,None,Missed basically everything
+50,9584,Nikko,2026,2026-03-08 11:49:23,107,9,0,No,98,8,None,
+51,7419,Nikko,2026,2026-03-08 11:58:50,128,7,6,No,121,0,None,
+51,1678,ocean,2026,2026-03-08 11:58:59,406,52,0,No,354,68,None,
+51,6981,Damian,2026,2026-03-08 11:58:51,0,0,0,No,0,7,None,
+51,670,Holden,2026,2026-03-08 11:58:49,46,0,0,No,46,0,None,Intake was kinda lopsided and movement wasn’t that smooth
+52,8793,ocean,2026,2026-03-08 12:09:27,70,15,0,No,55,17,None,
+52,7413,Damian,2026,2026-03-08 12:09:36,0,0,0,No,0,41,None,
+52,2473,Holden,2026,2026-03-08 12:09:23,0,0,0,No,0,0,None,Cleaned balls the whole time and choppy movement
+52,4990,Nikko,2026,2026-03-08 12:09:26,22,0,0,No,22,35,None,

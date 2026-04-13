@@ -1,0 +1,226 @@
+Match Number,Team Number,Scout Name,Game Year,Date,Calculated Points,Fuel Scored,Fuel Passed,Climbed,Fuel Scored,Fuel Passed,Climb Status,Notes
+1,10339,Arya,2026,2026-03-28 10:49:10,0,0,0,No,0,0,None,
+1,10339,Arya,2026,2026-03-28 10:47:13,0,0,0,No,0,0,None,
+1,5104,Nikko,2026,2026-03-28 10:49:20,114,3,0,No,111,29,None,
+1,10252,Yahya,2026,2026-03-28 10:49:19,0,0,0,No,0,0,None,Did absolutely nothing the whole match. Didn’t even pick up one ball and was immobile for 2/3 of the math 
+1,7413,Damian,2026,2026-03-28 10:49:19,5,0,0,No,5,0,None,"The driver seemed confused like they didn’t know what they were doing, shot the opposite direction as the scoring thing even though stationary shooter (DONT PICK)"
+1,10252,Caden,2026,2026-03-28 10:49:34,0,0,0,No,0,4,None,
+1,11247,Oliver To,2026,2026-03-28 10:49:24,11,3,0,No,8,0,None,small intake and small hopper limits scoring immensely
+2,7528,Oliver To,2026,2026-03-28 10:58:34,16,11,0,No,5,0,None,Tiny intake (<2 ft) couldn’t pick up any balls
+2,1868,Lucas Ho,2026,2026-03-28 10:58:35,158,14,0,No,144,0,None,"could hold a lot of balls, very accurate, many balls/sec"
+2,3045,Arya,2026,2026-03-28 10:58:49,201,97,0,No,104,0,None,Was doing really good until was defended on bump and got stuck
+2,2643,Nikko,2026,2026-03-28 10:58:44,23,0,0,No,23,11,None,
+2,2813,Damian,2026,2026-03-28 10:58:42,95,20,0,No,75,0,None,Takes a second for their shots to load but it works well and scored a lot 
+2,1868,Yahya,2026,2026-03-28 10:58:40,103,25,0,No,78,14,None,Good shooting
+3,7777,Lucas Ho,2026,2026-03-28 11:11:06,0,0,0,No,0,2,None,"entire auto didnt do anything, immobile for first 60% of game. didnt score anything"
+3,4171,Yahya,2026,2026-03-28 11:11:08,6,4,0,No,2,0,None,Got two balls in their intake the whole match 
+3,6238,Damian,2026,2026-03-28 11:11:04,118,20,0,No,98,21,None,"Pretty good, had a clear strategy, shots kinda miss at the start but get better"
+3,6410,Nikko,2026,2026-03-28 11:11:03,0,0,0,No,0,3,None,
+3,581,Arya,2026,2026-03-28 11:11:07,312,7,0,No,305,63,None,"Really good, really high bps. Auto failed"
+3,5760,Oliver To,2026,2026-03-28 11:11:30,0,0,0,No,0,0,None,"Sat in enemy trench the whole time"
+4,6665,Oliver To,2026,2026-03-28 11:20:06,0,0,0,No,0,0,None,"Guarded 604, tried to defend multiple bots at onc"
+4,604,Lucas Ho,2026,2026-03-28 11:19:55,186,13,0,No,173,22,None,very accurate and fast
+4,4135,Nikko,2026,2026-03-28 11:19:59,12,7,0,No,5,14,None,
+4,2854,Damian,2026,2026-03-28 11:19:51,32,10,0,No,22,0,None,"Decent driving, lowk horrible af range either way undershot (directly up with low power) or overshot, overall driving was fine, ig it counts as passing…"
+4,10059,Yahya,2026,2026-03-28 11:17:36,0,0,0,No,0,0,None,Ok defense 
+5,4255,Oliver To,2026,2026-03-28 11:38:15,0,0,0,No,0,0,None,"Didn’t move around with purpose, hesitant"
+5,10339,Yahya,2026,2026-03-28 11:39:14,0,0,0,No,0,0,None,
+5,649,Nikko,2026,2026-03-28 11:38:15,8,0,1,No,8,5,None,
+5,668,Damian,2026,2026-03-28 11:38:25,35,12,0,No,23,6,None,Walloped by 10339 defense (w def
+5,7413,Arya,2026,2026-03-28 11:38:16,8,8,0,No,0,0,None,"Only shot starting balls in auto, didn’t do anything for rest of match. Bad."
+5,2035,Lucas Ho,2026,2026-03-28 11:38:16,30,2,0,No,28,0,None,
+6,6884,Yahya,2026,2026-03-28 11:48:19,0,0,0,No,0,0,None,Solid defense 
+6,2643,Arya,2026,2026-03-28 11:48:31,0,0,0,No,0,0,None,"Didn’t shoot, just moved around slowly and did nothing "
+6,5104,Damian,2026,2026-03-28 11:48:20,39,0,0,No,39,0,None,"Not the best shots, bad auto, looks like it stopped working a bit at the start, I thought pretty good driving"
+6,581,Oliver To,2026,2026-03-28 11:48:41,148,0,0,No,148,50,None,"Auto broke down when they got beached on a ball
+"
+6,6238,Lucas Ho,2026,2026-03-28 11:48:23,94,4,0,No,90,0,None,"not very accurate, balls/sec not very good"
+6,6410,Nikko,2026,2026-03-28 11:48:19,0,0,0,No,0,7,None,
+7,5760,Damian,2026,2026-03-28 11:57:26,8,0,0,No,8,0,None,"Crap defense, no auto"
+7,2854,Oliver To,2026,2026-03-28 11:58:06,29,13,0,No,16,0,None,"Decent shooter, accurate shots
+Broke down this match, stuttered around"
+7,1868,Yahya,2026,2026-03-28 11:58:07,96,19,0,No,77,0,None,Great scoring 
+7,6665,Nikko,2026,2026-03-28 11:58:00,0,0,0,No,0,0,None,
+7,3045,Lucas Ho,2026,2026-03-28 11:58:01,186,41,0,No,145,71,None,amazing
+7,604,Arya,2026,2026-03-28 11:58:53,60,15,0,No,45,0,None,"They were scoring slowly, got heavily defended, and switched to bad defense at end of match. Pretty disappointing."
+8,2035,Damian,2026,2026-03-28 12:18:46,23,0,0,No,23,0,None,"Not great shooting, slow, only good for short range. Driving felt uncoordinated and it had a slow intake"
+8,11247,Oliver To,2026,2026-03-28 12:18:52,0,0,0,No,0,0,None,"Very fast, decent defense, couldn’t score or anything
+"
+8,4171,Lucas Ho,2026,2026-03-28 12:18:47,0,0,0,No,0,0,None,"very bad intake, couldnt shoot, very VERY bad driver"
+8,4171,Yahya,2026,2026-03-28 12:18:47,8,5,0,No,3,0,None,
+8,6506,Nikko,2026,2026-03-28 12:17:39,8,8,0,No,0,0,None,
+9,4255,Yahya,2026,2026-03-28 12:31:37,8,0,0,No,8,0,None,"Tried playing defense halfway though 
+"
+9,7777,Oliver To,2026,2026-03-28 12:30:52,0,0,0,No,0,0,None,"Broke mid game, didn’t do anything if note"
+9,7528,Lucas Ho,2026,2026-03-28 12:31:40,0,0,0,No,0,0,None,very bad intake cant shoot terrivle driving very unstable/wobbly tower
+9,10059,Arya,2026,2026-03-28 12:31:38,0,0,0,No,0,0,None,"Couldn’t shoot, was really bad on defense."
+9,649,Damian,2026,2026-03-28 12:31:38,31,0,0,No,31,0,None,"Broke for a bit, heavily guarded but made it work (kind of)"
+9,4135,Nikko,2026,2026-03-28 12:29:42,21,0,0,No,21,11,None,
+10,3045,Damian,2026,2026-03-28 12:48:05,253,61,0,No,192,50,None,You already know it😎
+10,581,Lucas Ho,2026,2026-03-28 12:48:14,223,28,0,No,195,65,None,very good
+10,10252,Nikko,2026,2026-03-28 12:56:19,22,8,3,No,14,2,None,
+10,6059,Oliver To,2026,2026-03-28 12:48:07,0,0,0,No,0,0,None,"Best defense I’ve seen so far, stopped 581 from going to the middle for a whole 20 secs. Amazing"
+10,7413,Yahya,2026,2026-03-28 12:48:08,0,0,0,No,0,0,None,Defense the whole game 
+10,2643,Arya,2026,2026-03-28 12:48:12,8,0,0,No,8,0,None,"Didn’t really too much, just went around the middle."
+11,2854,Damian,2026,2026-03-28 12:56:47,0,0,0,No,0,0,None,Kinda forgot to track
+11,6506,Nikko,2026,2026-03-28 12:57:14,16,4,2,No,12,2,None,
+11,6238,Lucas Ho,2026,2026-03-28 12:58:23,165,5,0,No,160,15,None,good accuracy and intake. not much driving since other bots passed and it just took balls and shot them
+11,11247,Oliver To,2026,2026-03-28 12:58:24,0,0,0,No,0,0,None,"Played a little defense but broke down, blocked own team from picking up balls"
+11,1868,Yahya,2026,2026-03-28 12:58:24,96,25,0,No,71,0,None,Great scoring 
+12,2035,Yahya,2026,2026-03-28 14:06:28,0,0,0,No,0,0,None,Intake wasn’t working? They only got 2 balls in the whole match.  
+13,6059,Yahya,2026,2026-03-28 14:17:33,15,0,0,No,15,0,None,
+14,668,Damian,2026,2026-03-28 14:32:11,75,13,0,No,62,0,None,Eh
+14,7777,Yahya,2026,2026-03-28 14:31:07,0,0,0,No,0,0,None,
+14,5760,Oliver To,2026,2026-03-28 14:32:30,0,0,0,No,0,0,None,"Defended 604, 604 still scored 319"
+14,7777,Lucas Ho,2026,2026-03-28 14:32:12,0,0,0,No,0,0,None,disnt move
+15,581,Yahya,2026,2026-03-28 14:40:20,140,21,0,No,119,52,None,"Amazing scoring and passing 
+"
+15,10059,Damian,2026,2026-03-28 14:39:54,0,0,0,No,0,0,None,Cheeks
+15,7413,Oliver To,2026,2026-03-28 14:40:24,5,2,0,No,3,0,None,"Small intake, couldn’t shoot accurate and a small hopper limits it a lot. Broke down midway"
+15,4171,Lucas Ho,2026,2026-03-28 14:40:30,10,8,0,No,2,0,None,terrible barely moved intake sucks cant shoot
+16,649,Yahya,2026,2026-03-28 14:52:03,19,6,0,No,13,0,None,
+16,6884,Oliver To,2026,2026-03-28 14:52:04,0,0,0,No,0,0,None,"Limited us to 210, great defense"
+16,6506,Lucas Ho,2026,2026-03-28 14:52:19,0,0,0,No,0,2,None,crappy driving bad rovot
+16,6059,Damian,2026,2026-03-28 14:54:10,0,0,0,No,0,0,None,Triple teaming us💩
+17,10252,Oliver To,2026,2026-03-28 15:03:58,0,0,0,No,0,0,None,Ok defense
+17,6410,Yahya,2026,2026-03-28 15:04:04,11,4,0,No,7,0,None,
+17,2854,Damian,2026,2026-03-28 15:04:33,83,0,0,No,83,26,None,Good
+18,4255,Oliver To,2026,2026-03-28 15:13:00,7,0,0,No,7,0,None,"Hopper broke, didn’t defend 604 very well"
+18,7777,Damian,2026,2026-03-28 15:12:27,0,0,0,No,0,0,None,Didn’t do ANYTHING
+18,2813,Yahya,2026,2026-03-28 15:12:50,49,14,0,No,35,0,None,
+18,604,Lucas Ho,2026,2026-03-28 15:12:48,256,4,0,No,252,75,None,amazing
+19,5104,Lucas Ho,2026,2026-03-28 15:23:57,113,0,0,No,113,46,None,good shooting good driving good accuracy
+19,6506,Oliver To,2026,2026-03-28 15:23:53,0,0,0,No,0,42,None,"Slow, pushed balls across from middle"
+20,10252,Oliver To,2026,2026-03-28 15:33:09,3,3,0,No,0,0,None,Ok defense
+20,6665,Byron Orozco,2026,2026-03-28 15:32:56,9,9,0,No,0,0,None,Locked up jontathan so hard that we only score 128
+21,11247,Yahya,2026,2026-03-28 15:49:37,0,0,0,No,0,0,None,
+21,4255,Oliver To,2026,2026-03-28 15:47:32,0,0,0,No,0,0,None,"Amazing defense, limited enemy not 6059 to 63 points. "
+21,6059,Oliver To,2026,2026-03-28 15:46:36,28,0,0,No,28,0,None,"Got defended really well, slow shooter"
+21,7777,Damian,2026,2026-03-28 15:43:58,0,0,0,No,0,0,None,"Horrible as always, kinda defended but that’s about it"
+22,1868,Oliver To,2026,2026-03-28 15:56:34,187,40,0,No,147,16,None,"Stole balls from the other side, extremely accurate"
+22,7413,Lucas Ho,2026,2026-03-28 15:55:23,23,0,0,No,23,0,None,abysmal
+22,2035,Yahya,2026,2026-03-28 15:57:05,24,0,0,No,24,0,None,
+23,5104,Yahya,2026,2026-03-28 16:04:32,71,8,0,No,63,23,None,
+23,2643,Oliver To,2026,2026-03-28 16:04:18,46,0,0,No,46,0,None,Slow but accurate shooter
+23,10339,Lucas Ho,2026,2026-03-28 16:02:15,0,0,0,No,0,0,None,pretty good defense
+23,7528,Damian,2026,2026-03-28 16:02:42,0,0,0,No,0,0,None,"Their intake is not good so they didn’t try to score or anything, they got stuck on too of balls and played meh defense"
+24,11247,Damian,2026,2026-03-28 16:11:57,5,5,0,No,0,0,None,"They only passed to human player, scored a bit on auto, not great. Their robot jerks and tips when it moves because it’s a kit bot, can’t turn well, very light"
+24,4135,Oliver To,2026,2026-03-28 16:12:59,68,0,0,No,68,0,None,"Decent shooter, kinda slow"
+24,2813,Lucas Ho,2026,2026-03-28 16:13:22,247,33,0,No,214,8,None,very good scoring
+24,10252,Yahya,2026,2026-03-28 16:12:38,0,0,0,No,0,56,None,
+25,7777,Arya,2026,2026-03-28 16:25:42,0,0,0,No,0,0,None,Couldn’t do anything.
+25,7413,Yahya,2026,2026-03-28 16:24:58,10,2,0,No,8,0,None,
+25,6884,Damian,2026,2026-03-28 16:23:24,0,0,0,No,0,0,None,"They just passed, no points they didn’t intake the balls, just pushed them"
+25,581,Oliver To,2026,2026-03-28 16:24:56,175,36,0,No,139,0,None,Jammed indexer
+25,2854,Lucas Ho,2026,2026-03-28 16:24:56,42,0,0,No,42,0,None,i mean its alr
+26,668,Yahya,2026,2026-03-28 16:33:35,13,0,0,No,13,0,None,
+26,10339,Oliver To,2026,2026-03-28 16:31:26,0,0,0,No,0,0,None,No show
+26,4171,Damian,2026,2026-03-28 16:32:19,6,6,0,No,0,0,None,"Moved around uselessly at least they tried defense at some point, their robot is NOT good"
+26,5104,Byron Orozco,2026,2026-03-28 16:34:20,12,0,0,No,12,0,None,
+26,3045,Lucas Ho,2026,2026-03-28 16:33:33,219,25,0,No,194,0,None,lyt🥹
+27,6238,Oliver To,2026,2026-03-28 16:42:00,43,10,0,No,33,0,None,"Slow moving, decent but slow scorer"
+27,2035,Damian,2026,2026-03-28 16:40:46,5,0,0,No,5,0,None,"Robot didn’t do much, kinda just stayed on their side and got it the eay"
+27,5760,Lucas Ho,2026,2026-03-28 16:41:59,3,0,0,No,3,0,None,"very terrible in EVERY aspect
+"
+28,1868,Yahya,2026,2026-03-28 16:54:03,54,21,0,No,33,0,None,
+28,6059,Oliver To,2026,2026-03-28 16:53:59,0,0,0,No,0,0,None,"Incredible defense, locked up space cookies"
+28,4135,Damian,2026,2026-03-28 16:52:36,0,0,0,No,0,0,None,"They didn’t do much, drove around and blocked ig"
+28,604,Arya,2026,2026-03-28 16:54:29,289,20,0,No,269,26,None,Really good.
+29,6506,Damian,2026,2026-03-28 17:03:05,0,0,0,No,0,0,None,It seems like the shooter broke because it stopped shooting balls and just held them 
+29,5104,Oliver To,2026,2026-03-28 17:03:53,60,0,0,No,60,0,None,"Intake is very slow, accurate"
+29,11247,Yahya,2026,2026-03-28 17:04:00,0,0,0,No,0,0,None,
+29,11247,Arya,2026,2026-03-28 17:04:01,8,8,0,No,0,0,None,Didn’t do anything outside auto
+30,6884,Oliver To,2026,2026-03-28 17:13:20,0,0,0,No,0,0,None,
+30,7777,Lucas Ho,2026,2026-03-28 17:11:46,0,0,0,No,0,0,None,since they intake and shooter dont work they “passed” by shoving balls to their side using the bumper of the robot
+30,4171,Damian,2026,2026-03-28 17:11:13,5,5,0,No,0,0,None,"Hung around in the middle, didn’t shoot at all or pass, blocked"
+30,2854,Yahya,2026,2026-03-28 17:13:10,16,0,0,No,16,0,None,
+31,10339,Yahya,2026,2026-03-28 17:23:18,0,0,0,No,0,0,None,
+31,2643,Lucas Ho,2026,2026-03-28 17:23:19,45,17,0,No,28,0,None,meh not rly good dont pick
+31,1868,Damian,2026,2026-03-28 17:23:12,171,13,0,No,158,0,None,"Surprisingly good, thy scored most shots, looked stuck sometimes but guy situated again"
+31,7413,Arya,2026,2026-03-28 17:23:24,7,7,0,No,0,0,None,"Tried to defend, but was defending quixsilver, which is really hard. They did meh."
+31,4135,Oliver To,2026,2026-03-28 17:23:20,1,1,0,No,0,0,None,"Broke down at the end of the match, stuttered around"
+32,6410,Arya,2026,2026-03-28 17:47:48,8,8,0,No,0,0,None,Shot in auto and then did nothing.
+32,10252,Yahya,2026,2026-03-28 17:46:10,34,10,0,No,24,0,None,
+32,6238,Lucas Ho,2026,2026-03-28 17:47:38,68,2,0,No,66,0,None,in last 45 sec it became immobile and didnt do anything
+32,2813,Oliver To,2026,2026-03-28 17:47:47,171,39,0,No,132,0,None,"Slow start, becomes efficient half way through"
+33,11247,Yahya,2026,2026-03-28 17:56:52,0,0,0,No,0,0,None,
+33,581,Oliver To,2026,2026-03-28 17:56:57,374,86,0,No,288,59,None,All round good
+33,7528,Arya,2026,2026-03-28 17:56:51,0,0,0,No,0,0,None,They weren’t at the match
+34,2643,Arya,2026,2026-03-28 18:09:23,51,0,0,No,51,0,None,"Shot some balls, not too fast but can works."
+34,4171,Oliver To,2026,2026-03-28 18:09:05,4,4,0,No,0,0,None,"Kept trying to intake and shoot instead of defense, useless during this match"
+35,2813,Arya,2026,2026-03-28 18:18:36,196,11,0,No,185,0,None,Scored a lot.
+35,4255,Oliver To,2026,2026-03-28 18:17:39,0,0,0,No,0,19,None,Just shoved balls from the middle not their side the whole time
+36,7777,Arya,2026,2026-03-28 18:33:43,0,0,0,No,0,0,None,Didn’t do anything
+36,6059,Yahya,2026,2026-03-28 18:33:49,8,0,0,No,8,0,None,
+38,668,Oliver To,2026,2026-03-28 18:52:26,156,23,0,No,133,0,None,"Moderate scoring speed, consistent"
+39,2035,Lucas Ho,2026,2026-03-29 09:14:30,0,0,0,No,0,11,None,pretty good defenese
+39,1868,Oliver To,2026,2026-03-29 09:14:28,137,32,0,No,105,0,None,"Weak to defense, moderate-fast stream of fuel"
+39,4135,Yahya,2026,2026-03-29 09:14:28,0,0,0,No,0,0,None,
+40,4255,Lucas Ho,2026,2026-03-29 09:24:40,0,0,0,No,0,0,None,no show
+40,10252,Oliver To,2026,2026-03-29 09:26:30,5,0,0,No,5,0,None,"Small intake and small hopper, inaccurate"
+40,6506,Yahya,2026,2026-03-29 09:26:32,43,10,0,No,33,0,None,
+41,3045,Arya,2026,2026-03-29 09:45:42,163,31,0,No,132,0,None,Got heavily defended ):
+41,6665,Yahya,2026,2026-03-29 09:41:07,0,0,0,No,0,0,None,
+41,7413,Oliver To,2026,2026-03-29 09:40:09,6,6,0,No,0,0,None,Ok defense
+41,668,Lucas Ho,2026,2026-03-29 09:40:08,41,5,0,No,36,0,None,lwk mid
+42,7528,Lucas Ho,2026,2026-03-29 09:49:08,0,0,0,No,0,6,None,intake/ shooter doesnt work; shoved balls around entire time
+42,11247,Oliver To,2026,2026-03-29 09:49:08,0,0,0,No,0,0,None,"Intake and shooter jammed, did nothing this match"
+42,10339,Damian,2026,2026-03-29 09:47:54,0,0,0,No,0,0,None,Good defense
+42,649,Yahya,2026,2026-03-29 09:49:08,27,9,0,No,18,0,None,
+43,6506,Arya,2026,2026-03-29 09:58:46,24,0,0,No,24,35,None,"Passed for a majority of the match. Can score, but not accurate."
+43,10059,Lucas Ho,2026,2026-03-29 09:58:10,0,0,0,No,0,0,None,"supposed to be defense bot, not really good at it. started “passing” by shoving balls to their side"
+43,5104,Oliver To,2026,2026-03-29 09:58:34,105,0,0,No,105,0,None,"Shooter got stuck in auto, good shooter, sometimes inaccurate"
+43,2035,Damian,2026,2026-03-29 09:58:37,17,0,0,No,17,0,None,"The shooter broke last second, decent defense, like 1/20 shot balls actually scored"
+43,1868,Yahya,2026,2026-03-29 09:58:32,109,26,0,No,83,0,None,
+44,4255,Arya,2026,2026-03-29 10:14:44,0,0,0,No,0,0,None,"Tried defense, was really bad at it."
+44,581,Damian,2026,2026-03-29 10:14:22,160,46,0,No,114,18,None,"They started bricking half of their shots, didn’t score as many as they could have and were getting heavily guarded but still scored a bit. Good auto"
+44,6059,Oliver To,2026,2026-03-29 10:14:18,0,0,0,No,0,0,None,"Played counter-defense to leave teammate open to shoot, great defense against defense"
+44,668,Lucas Ho,2026,2026-03-29 10:14:17,42,0,0,No,42,0,None,lwk mid again
+44,6884,Yahya,2026,2026-03-29 10:14:15,0,0,0,No,0,0,None,
+45,2643,Damian,2026,2026-03-29 10:25:09,77,0,0,No,77,0,None,"Pretty good, not the most accurate but not the least. They were more accurate than 581 last around"
+45,649,Oliver To,2026,2026-03-29 10:24:55,82,10,0,No,72,0,None,Slow but accurate and consistent shooter
+45,4135,Yahya,2026,2026-03-29 10:25:03,0,0,0,No,0,0,None,
+45,2854,Arya,2026,2026-03-29 10:25:16,194,44,0,No,150,0,None,
+45,2854,Arya,2026,2026-03-29 10:25:20,194,44,0,No,150,0,None,"Can shoot pretty well, just has a small and flimsy hopper. Overall good."
+46,6665,Oliver To,2026,2026-03-29 10:34:58,0,0,0,No,0,0,None,Defense and ball shoved
+46,6238,Arya,2026,2026-03-29 10:35:04,48,13,0,No,35,0,None,"Shooter broke midway through match. Also driving was really wierd, didn’t pass at all during opponent shift."
+46,11247,Damian,2026,2026-03-29 10:33:23,6,6,0,No,0,0,None,Meh scored auto but that’s it
+46,7528,Yahya,2026,2026-03-29 10:34:37,10,0,0,No,10,0,None,
+47,604,Oliver To,2026,2026-03-29 10:46:08,304,54,0,No,250,0,None,It’s quixsilver 
+47,2035,Arya,2026,2026-03-29 10:46:08,0,0,0,No,0,0,None,Didn’t do anything
+47,6059,Yahya,2026,2026-03-29 10:45:09,0,0,0,No,0,0,None,
+47,6410,Lucas Ho,2026,2026-03-29 10:46:03,0,0,0,No,0,0,None,ion even know what they were doing
+48,6884,Lucas Ho,2026,2026-03-29 11:00:06,37,0,0,No,37,0,None,very slow and inaccurate shooter
+48,649,Damian,2026,2026-03-29 10:59:42,33,0,0,No,33,0,None,Missed a lot
+48,5760,Yahya,2026,2026-03-29 11:00:08,0,0,0,No,0,0,None,
+48,1868,Oliver To,2026,2026-03-29 11:00:06,235,44,0,No,191,0,None,Easy to play defense against
+49,10252,Damian,2026,2026-03-29 11:08:39,0,0,0,No,0,32,None,"Passed a lot, it looked like their intake broke"
+49,10059,Lucas Ho,2026,2026-03-29 11:02:55,0,0,0,No,0,0,None,
+49,3045,Yahya,2026,2026-03-29 11:08:35,166,49,0,No,117,0,None,
+49,6238,Ethan Hwa,2026,2026-03-29 11:08:37,111,2,0,No,109,0,None,
+49,7528,Oliver To,2026,2026-03-29 11:08:48,2,2,0,No,0,0,None,Shoved balls from opponent side to middle
+49,10059,Lucas Ho,2026,2026-03-29 11:08:48,0,0,0,No,0,0,None,played ok defense and passing but got stuck on balls last 25 sec
+50,6410,Oliver To,2026,2026-03-29 11:17:53,1,1,0,No,0,0,None,"Auto can’t score, tried passing only shot 3 balls"
+50,4135,Damian,2026,2026-03-29 11:15:37,0,0,0,No,0,0,None,Didn’t even show up
+51,604,Damian,2026,2026-03-29 11:30:33,333,13,0,No,320,32,None,Too good
+51,6506,Oliver To,2026,2026-03-29 11:31:09,0,0,0,No,0,0,None,Very slow defense bot
+51,581,Arya,2026,2026-03-29 11:31:14,322,65,0,No,257,203,None,It’s bulldogs
+51,2813,Lucas Ho,2026,2026-03-29 11:30:36,185,12,0,No,173,0,None,pretty good balls/sec good accuracy. driving was iffy
+51,7777,Ethan Hwa,2026,2026-03-29 11:28:45,0,0,0,No,0,0,None,
+51,7777,Nikko,2026,2026-03-29 11:28:09,0,0,0,No,0,0,None,
+51,2643,Yahya,2026,2026-03-29 11:30:22,27,0,0,No,27,0,None,
+52,6884,Yahya,2026,2026-03-29 11:41:34,0,0,0,No,0,0,None,
+52,2854,Lucas Ho,2026,2026-03-29 11:41:37,187,17,0,No,170,0,None,very good shooter
+52,10339,Oliver To,2026,2026-03-29 11:41:45,0,0,0,No,0,0,None,Attempted counter defense and we still lost
+52,4255,Arya,2026,2026-03-29 11:42:50,0,0,0,No,0,0,None,They weren’t at the match.
+52,3045,Damian,2026,2026-03-29 11:43:43,164,60,0,No,104,43,None,"Defense bots are useless, waste of money"
+53,6665,Lucas Ho,2026,2026-03-29 11:50:33,0,0,0,No,0,0,None,"tried to defend, had some successful attempts, but 10059 had REALLY good counterdefense. 10059 protected  very well"
+53,4171,Yahya,2026,2026-03-29 11:50:35,0,0,0,No,0,0,None,
+53,10252,Arya,2026,2026-03-29 11:51:03,0,0,0,No,0,0,None,Didn’t do anything
+53,10059,Oliver To,2026,2026-03-29 11:50:48,1,0,0,No,1,0,None,Was able to counter defend C-Otters
+54,668,Lucas Ho,2026,2026-03-29 12:01:39,143,9,0,No,134,41,None,pretty ok
+54,604,Damian,2026,2026-03-29 12:02:09,384,59,0,No,325,0,None,Why can I even say they scored all their teams points
+54,6410,Oliver To,2026,2026-03-29 12:01:54,0,0,0,No,0,0,None,"Slow, pushes balls to teammates"
+54,6238,Yahya,2026,2026-03-29 12:01:41,36,0,0,No,36,0,None,
+55,2854,Yahya,2026,2026-03-29 12:10:33,49,14,0,No,35,0,None,
+56,7777,Yahya,2026,2026-03-29 12:18:53,0,0,0,No,0,0,None,
