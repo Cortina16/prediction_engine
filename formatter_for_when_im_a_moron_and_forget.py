@@ -1,9 +1,18 @@
-import json
+import ijson
+import os
 
-def pretty(filename):
-    with open(filename, 'r') as f:
-        data = json.load(f)
-    with open(filename, 'w') as f:
-        json.dump(data, f, indent=4)
+def validate_json_syntax(folder):
+    for file in os.listdir(folder):
+        if file.endswith(".json") and "_temp" not in file:
+            path = os.path.join(folder, file)
+            try:
+                with open(path, 'rb') as f:
+                    # This only scans the structure without loading the whole list
+                    for _ in ijson.items(f, 'item'):
+                        pass
+                print(f"✅ {file} is valid.")
+            except Exception as e:
+                print(f"❌ {file} is CORRUPT: {e}")
 
-pretty('historical_data.json')
+validate_json_syntax('data/matches')
+
