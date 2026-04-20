@@ -8,26 +8,15 @@ def simulate_full_profile(teams, profiles, iterations=1000):
     for team in teams:
         stats = profiles.filter(pl.col("team") == team)
 
-        # 1. Base + Value Add + Momentum
-        # We adjust the mean based on how much they've improved (momentum)
         adj_mu = stats["avg_real_points"][0] + stats["momentum"][0]
-
-        # 2. Consistency
         sigma = stats["consistency_std"][0]
-
-        # 3. Upside Skew
-        # 'a' is the skewness parameter in skewnorm
         skew_param = stats["upside_skew"][0]
-
-        # Generate random scores using the skewed distribution
-        #
         team_sim_scores = skewnorm.rvs(a=skew_param, loc=adj_mu, scale=sigma, size=iterations)
 
         alliance_total_scores += team_sim_scores
 
     return alliance_total_scores
 
-# Then compare Red vs Blue
 # red_sim = simulate_full_profile(red_teams, profiles)
 # blue_sim = simulate_full_profile(blue_teams, profiles)
 # win_prob = (red_sim > blue_sim).mean()

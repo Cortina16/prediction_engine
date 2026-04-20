@@ -93,11 +93,8 @@ train_profiles.with_columns([
     pl.col("upside_skew").fill_null(0.0)      # Assume no skew if we don't know yet
 ])
 
-# 1. Get the "Future" schedule (matches after the split)
-# We need to collect it to iterate through it easily
 test_matches = event_lf.filter(pl.col("match_num") > split_point).collect()
 
-# We need to group by match to get the Red and Blue alliances
 match_keys = test_matches["match"].unique().to_list()
 
 sim_data.sim(match_keys, test_matches, train_profiles,)

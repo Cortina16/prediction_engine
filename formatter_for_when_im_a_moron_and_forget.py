@@ -7,7 +7,6 @@ def validate_json_syntax(folder):
             path = os.path.join(folder, file)
             try:
                 with open(path, 'rb') as f:
-                    # This only scans the structure without loading the whole list
                     for _ in ijson.items(f, 'item'):
                         pass
                 print(f"✅ {file} is valid.")
